@@ -2,9 +2,10 @@
   "tabWidth": 2,
   "useTabs": false,
   "arrowParens": "always",
-  "printWidth": 150,
+  "printWidth": 80,
   "semi": true,
   "jsxSingleQuote": false,
-  "trailingComma": "all"
+  "trailingComma": "all",
+
 
 }
